@@ -26,6 +26,7 @@ public class GoogleTest {
 		driver.close();
 		System.out.println("fourth code");
 		System.out.println("Merge code 1");
+		System.out.println("Merge code 3");
 	}
 	
 	
