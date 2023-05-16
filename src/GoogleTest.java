@@ -24,6 +24,7 @@ public class GoogleTest {
 		System.out.println(driver.getTitle());
 		driver.findElement(By.name("q")).sendKeys("rahul shetty");
 		driver.close();
+		System.out.println("fourth code");
 	}
 	
 	
