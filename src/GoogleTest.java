@@ -25,6 +25,7 @@ public class GoogleTest {
 		driver.findElement(By.name("q")).sendKeys("rahul shetty");
 		driver.close();
 		System.out.println("fourth code");
+		System.out.println("Merge code 1");
 	}
 	
 	
